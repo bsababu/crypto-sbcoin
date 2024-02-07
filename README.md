@@ -11,11 +11,11 @@ it is required to have access on internet identity : https://identity.ic0.app/#a
 3. Deploy the Project to the Live IC Network
 
 
-You can check with my canister as examples: 
+You can check with my canister ID as examples: 
 
 i6pib-koi47-x2uah-uzcws-wn6wk-mvuhy-o5rci-uti63-wr4zj-qmdhf-7ae
 
-client canister: 2vxsx-fae
+client ID canister for transfer: 2vxsx-fae
 
 
 ## Commands
