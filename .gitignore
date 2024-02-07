@@ -9,7 +9,7 @@
 
 # dfx temporary files
 .dfx/
-
+_readme.md
 # frontend code
 node_modules/
 dist/
